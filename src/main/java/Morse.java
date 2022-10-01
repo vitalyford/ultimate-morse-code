@@ -15,7 +15,8 @@ public class Morse {
 
     public static ArrayList<String> decodeMorse(String encMessage) {
         /**
-         * HINT: use a helper method to execute your recursion,
+         * HINT: use your own methods to execute your recursion
+         *       (feel free to add as many methods as you need),
          *       you CANNOT change the number of arguments in
          *       this `decodeMorse` method
          */
