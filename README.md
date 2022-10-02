@@ -30,3 +30,6 @@ String[] morseCodes = { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.",
 "-.--", "--..", ".----", "..---", "...--", "....-", ".....",
 "-....", "--...", "---..", "----.", "-----"};
 ```
+# Automated Tests
+
+Check out the automated tests that will be running from `src/test/MorseTests.java`. Every time you make a new commit, the tests will run and you can see their output on the `Actions` tab (click on Autograding) in your repo on GitHub.
