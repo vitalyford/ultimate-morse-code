@@ -12,7 +12,7 @@ k
 
 # Assumptions
 
-You can assume that the input is always correct (no input verification needed) and will consist of dots (.) and dashes (-), there are NO other characters that will be used. You can use the following international Morse Code table, where a code in the `morseCodes` array has a corresponding translation in the `alphabet` array (you are free to store alphabet and morse codes any way you want though, I just though that this way it might be easier to work with).
+You can assume that the input is always correct (no input verification needed) and will consist of dots (.) and dashes (-), there are NO other characters that will be used. You can use the following international Morse Code table, where a code in the `morseCodes` array has a corresponding translation in the `alphabet` array (you are free to store alphabet and morse codes any way you want though, I just thought that this way it might be easier to work with).
 
 ## Morse Code Alphabet
 
